@@ -1,8 +1,9 @@
-import { FaDiscord, FaGithub, FaTwitch, FaTwitter } from "react-icons/fa"
+import { FaDiscord, FaGithub, FaTwitch } from "react-icons/fa"
+import { FaX } from "react-icons/fa6";
 
 const links = [
     {href: 'https://discord.com', icon: <FaDiscord />},
-    {href: 'https://twitter.com', icon: <FaTwitter />},
+    {href: 'https://x.com', icon: <FaX />},
     {href: 'https://github.com', icon: <FaGithub />},
     {href: 'https://twitch.com', icon: <FaTwitch />},
 ]
