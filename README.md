@@ -2,7 +2,7 @@
 
 A stunning, modern website showcasing an RPG game with smooth animations and interactive elements. Built with React, GSAP, and Tailwind CSS.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://games-rpg.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7ba412ca-2f5e-439d-a56f-d2c5994686ab/deploy-status)](https://app.netlify.com/projects/games-rpg/deploys)
 
 ## 🌟 Live Demo
 
